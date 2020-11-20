@@ -1,0 +1,1 @@
+enum UserRelation { SELF, FRIEND, REQUESTED, PENDING, NONE }

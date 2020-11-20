@@ -1,0 +1,1 @@
+enum GridOptions { PEOPLE, PLACES, THINGS, EVENTS }
